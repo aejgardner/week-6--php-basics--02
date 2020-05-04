@@ -17,7 +17,6 @@ function both(array $arr1, $arr2) {
             }
         }
     }
-
     return $newArr;
 }
 
